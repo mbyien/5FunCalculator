@@ -2,7 +2,7 @@
 
 **5FunCalc** is a simple calculator app built using SwiftUI. It supports basic arithmetic operations, a clean interface, and responsive layout optimized for iPhone devices.
 
-![screenshot](screenshot.png) <!-- Optional: Add a screenshot if available -->
+
 
 ## 🚀 Features
 
@@ -21,13 +21,6 @@
 - UI is rendered using a grid-like structure of buttons via `ForEach` loops.
 - Special formatting is added to display a clean value without unnecessary decimal points.
 
-## 📁 File Structure
-
-5FunCalc/
-├── ContentView.swift # Main UI and logic
-├── Assets.xcassets/ # App assets and colors
-├── 5FunCalcApp.swift # App entry point
-└── ...
 
 ## 📱 Screens
 
