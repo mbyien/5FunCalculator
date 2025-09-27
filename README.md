@@ -1,4 +1,4 @@
-# 5FunCalc
+# 5 Function Calculator
 
 **5FunCalc** is a simple calculator app built using SwiftUI. It supports basic arithmetic operations, a clean interface, and responsive layout optimized for iPhone devices.
 
